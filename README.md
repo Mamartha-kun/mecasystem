@@ -1,5 +1,3 @@
-### 8. Documentación
-
 #### README del Proyecto
 
 **Nombre del proyecto:**
